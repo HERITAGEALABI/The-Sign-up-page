@@ -1,0 +1,65 @@
+body{
+    background-image: url(beauty.jpg);
+background-repeat: inherit;
+}
+img{
+    width: 10%;
+    height: 10%;
+border-radius: 100%;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+h1{
+    text-align: center;
+}
+input[type=text]{
+    width: 70%;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    resize: vertical;
+    margin-top: 10%;
+    background-color:  white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+input[type=email]{
+    width: 70%;
+    padding: 10px ;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+   background-color: white;
+   display: block;
+margin-left: auto;
+margin-right: auto;
+}
+input[type=password]{
+    width: 70%;
+    padding: 10px ;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+   background-color:  white;
+   display: block;
+margin-left: auto;
+margin-right: auto;
+}
+input[type=submit] {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    resize: vertical;
+    background-color: rgb(223, 218, 152);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
